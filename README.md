@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArnavBarway
 - 👀 I’m interested in getting work, do check my portfolio at https://arnav-new.netlify.app
-- 🌱 I’m currently learning NodeJS and ReactJS
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web hosting
 - 📫 How to reach me? arnav@sagaraga.com
 - 😄 Pronouns: Learning Front-end and Back-end developer
